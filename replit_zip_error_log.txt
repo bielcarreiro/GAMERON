@@ -1,0 +1,17 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-07-29T10:23:46Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/detect-libc","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mathjs","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mkdirp","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/needle","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/node-pre-gyp","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nopt","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/prebuild-install","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rc","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rimraf","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-conv","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-sign","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-verify","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uuid","time":"2024-07-29T10:23:49Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/node-pre-gyp/node_modules/.bin/mkdirp","time":"2024-07-29T10:23:56Z"}
